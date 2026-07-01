@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="FiveV Logo" width="420" />
+<img src="../assets/logo.png" alt="FiveV Logo" width="420" />
 
 <br />
 
